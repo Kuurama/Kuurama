@@ -1,18 +1,25 @@
-# Hi, I'm Kuurama 👋
+<h1 align="center">Hi, I'm Kuurama 👋</h1>
 
 <h3 style="font-size: 50px;" align="center">💻 My Stack</h3>
 
 <p align="center">
+    <img src="https://github.com/dotnet/vscode-csharp/blob/main/images/csharpIcon.png" height=28px>
     <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
     <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white">
 </p>
 
 <p align="center">
     <img src="https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white">
-    <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
-    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
     <img src="https://github.com/discord-net/Discord.Net/blob/dev/docs/marketing/logo/SVG/Combinationmark%20White.svg#gh-dark-mode-only" height=28px>
+    <img src="https://img.shields.io/badge/REACT-149eca?style=for-the-badge&logo=react&logoColor=white">
+</p>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Azure_Cosmos_DB.svg/330px-Azure_Cosmos_DB.svg.png" height=28px>
+    <img src="https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/1054094-Get-Started-Icon-01-24x24?resMode=sharp" height=28px>
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
 </p>
 
 <p align="center">
