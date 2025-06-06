@@ -18,12 +18,12 @@
     <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Azure_Cosmos_DB.svg/330px-Azure_Cosmos_DB.svg.png" height=28px>
     <img src="https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/1054094-Get-Started-Icon-01-24x24?resMode=sharp" height=28px>
-    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white">
+    <img src="https://img.shields.io/badge/Rider-ba1f7f?style=for-the-badge&logo=rider&logoColor=white">
 </p>
 
 <h3 style="font-size: 50px;" align="center">🖥 Operating system</h3>
@@ -43,6 +43,7 @@ A multi-tenant Beat Saber ranking system I've been working on for over 4 years. 
 - Minimal APIs
 - MariaDB and Redis
 - JWT authentication with oauth2 cookies
+- Result and Option monadic pattern applied
 </div>
 
 <br clear="both"/>
