@@ -73,7 +73,7 @@ Built with:
 <hr>
 
 <div>
-<img align="right" width="700" src="https://github.com/Kuurama/MyTimeClassifier/blob/master/soft.png">
+<img align="right" width="670" src="https://github.com/Kuurama/MyTimeClassifier/blob/master/soft.png">
 
 ### [MyTimeClassifier](https://github.com/Kuurama/MyTimeClassifier)
 Avalonia UI app for personal time tracking:
