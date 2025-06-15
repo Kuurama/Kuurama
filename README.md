@@ -35,15 +35,18 @@
 ## 🏗️ Projects
 
 <div>
-<img align="right" width="400" src="https://via.placeholder.com/400x200?text=GuildSaber+Screenshot">
+<img align="right" width="400" src="https://github.com/Kuurama/Kuurama/blob/main/guildsaber.png">
 
 ### [GuildSaber](https://github.com/GuildSaber/GuildSaber)
-A multi-tenant Beat Saber ranking system I've been working on for over 4 years. Built with:
+A multi-tenant Beat Saber ranking system I've been working on for over 4 years.
+(Remaking it multiple time and learning new technologies each time)
+
+Built with:
 - .NET 9 with .NET Aspire
 - Minimal APIs
 - MariaDB and Redis
 - JWT authentication with oauth2 cookies
-- Result and Option monadic pattern applied
+- Result and Option monadic patterns
 </div>
 
 <br clear="both"/>
@@ -86,7 +89,7 @@ Avalonia UI app for personal time tracking:
 
 - **Functional C#**: Monads, Railway-Oriented Programming
 - **API Design**: Both minimal APIs and controller-based 
-- **.NET Stack**: .NET Core, EF Core, Aspire
+- **.NET Stack**: ASP.Net Core, EF Core, Aspire, OData 8
 - **Modern C#**: Up-to-date with latest features (.Net 9 & C# 13, always up to date with C# 14 and .Net 10 previews)
 - **UI Development**: Avalonia and WPF
   
