@@ -26,13 +26,13 @@
     <img src="https://img.shields.io/badge/Rider-ba1f7f?style=for-the-badge&logo=rider&logoColor=white">
 </p>
 
-<h3 style="font-size: 50px;" align="center">🖥 Operating system</h3>
+<h3 style="font-size: 50px;" align="center">Operating system</h3>
 <p align="center">
     <img src="https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white">
     <img src="https://img.shields.io/badge/Windows-33a8ff.svg?style=for-the-badge&logo=windows&logoColor=white">
 </p>
 
-## 🏗️ Projects
+## Projects
 
 <div>
 <img align="right" width="400" src="https://github.com/Kuurama/Kuurama/blob/main/guildsaber.png">
@@ -42,9 +42,9 @@ A multi-tenant Beat Saber ranking system I've been working on for over 4 years.
 (Remaking it multiple time and learning new technologies each time)
 
 Built with:
-- .NET 9 with .NET Aspire
+- .NET 10 with (.NET) Aspire
 - Minimal APIs
-- MariaDB and Redis
+- PostgreSql and Redis
 - JWT authentication with oauth2 cookies
 - Result and Option monadic patterns
 </div>
@@ -85,12 +85,12 @@ Avalonia UI app for personal time tracking:
 
 <br clear="both"/>
 
-## 🧠 What I Know
+## What I Know
 
 - **Functional C#**: Monads, Railway-Oriented Programming
 - **API Design**: Both minimal APIs and controller-based 
 - **.NET Stack**: ASP.Net Core, EF Core, Aspire, OData 8
-- **Modern C#**: Up-to-date with latest features (.Net 9 & C# 13, always up to date with C# 14 and .Net 10 previews)
+- **Modern C#**: Up-to-date with latest features (.Net 10 & C# 14)
 - **UI Development**: Avalonia and WPF
   
 ---
