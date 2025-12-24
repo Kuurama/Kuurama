@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/Rider-ba1f7f?style=for-the-badge&logo=rider&logoColor=white">
 </p>
 
-<h3 style="font-size: 50px;" align="center">Operating system</h3>
+<h3 style="font-size: 50px;" align="center">🖥 Operating system</h3>
 <p align="center">
     <img src="https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white">
     <img src="https://img.shields.io/badge/Windows-33a8ff.svg?style=for-the-badge&logo=windows&logoColor=white">
